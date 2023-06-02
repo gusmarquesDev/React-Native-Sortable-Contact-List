@@ -18,17 +18,17 @@ export function Card({ data }: Props) {
 
     return (
         <View style={styles.container}>
-            <View style={{ flexDirection:'row', justifyContent:'center', alignItems:'center'}}>
-            <View style={{width:30, height:30,borderRadius:150, backgroundColor:'#c1c1c1', marginRight:7, justifyContent:'center', alignItems:'center'}}>
-            <MaterialIcons
-                name='person'
-                size={20}
-                color="#000000"
-            />
-            </View>
-            <Text style={styles.tittle}>
-                {data.tittle}
-            </Text>
+            <View style={{ flexDirection: 'row', justifyContent: 'center', alignItems: 'center' }}>
+                <View style={{ width: 30, height: 30, borderRadius: 150, backgroundColor: '#c1c1c1', marginRight: 7, justifyContent: 'center', alignItems: 'center' }}>
+                    <MaterialIcons
+                        name='person'
+                        size={20}
+                        color="#000000"
+                    />
+                </View>
+                <Text style={styles.tittle}>
+                    {data.tittle}
+                </Text>
             </View>
             <MaterialIcons
                 name='drag-indicator'

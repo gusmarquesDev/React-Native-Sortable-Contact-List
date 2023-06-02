@@ -1,13 +1,13 @@
-import { View,Text } from 'react-native'
+import { View, Text } from 'react-native'
 import { styles } from './styles'
 
 
-export function Header(){
+export function Header() {
 
-    return(
+    return (
         <View style={styles.container}>
             <Text style={styles.tittle}>
-                 Sortable Contact List 
+                Sortable Contact List
             </Text>
         </View>
     )
