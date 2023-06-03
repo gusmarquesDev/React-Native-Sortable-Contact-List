@@ -1,4 +1,4 @@
-# SortableContactList
+# Sortable Contact List
 
 ## Sobre o App 📱
 - Sortable Contact list é um aplicativo de listagem feito com React Native, ele possui animações em sua rolagem de lista e é possivel 
