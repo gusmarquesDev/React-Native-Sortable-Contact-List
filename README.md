@@ -26,7 +26,7 @@ classificar os itens listados com um simples arrasta e puxa.
 
 
 ## Comentários finais. 💬
-
+- Link com a aplicação rodando: https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7070121931831750657
 - O aplicativo é distribuido na versão Android, e iOS.
 - O aplicativo pode ser utilizado  na vertical.
 - O App deve ser testado em um dispositivo real para testar a performance qualitativamente.
