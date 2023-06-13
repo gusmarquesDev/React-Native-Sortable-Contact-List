@@ -18,6 +18,8 @@ classificar os itens listados com um simples arrasta e puxa.
 
 ## Telas Vertical
 
+<img src="https://drive.google.com/file/d/1Zbd8dCQiyimRHjLNrz8dmt2S6h4gguYV/view?usp=share_link"/>
+
 ### Possíveis erros ⚠️
 
 - Caso os pacotes não sejam instalados de forma correta, será possivel que ocorra algum error ou alguns. Então acontecendo erros ao clonar o projeto me mande um email reportando em: gus.desenvolvedor@hotmail.com, que lhe ajudo a solucionar e rodar o projeto. 
