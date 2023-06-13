@@ -18,7 +18,7 @@ classificar os itens listados com um simples arrasta e puxa.
 
 ## Telas Vertical
 
-<img src="https://drive.google.com/file/d/1Zbd8dCQiyimRHjLNrz8dmt2S6h4gguYV/view?usp=share_link"/>
+<img width="268" alt="sortContactList" src="https://github.com/gusmarquesDev/React-Native-Sortable-Contact-List/assets/116916845/0e1180a3-4c92-40ee-ac3d-ce80b0c27a44">
 
 ### Possíveis erros ⚠️
 
